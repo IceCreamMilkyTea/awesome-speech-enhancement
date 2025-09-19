@@ -104,6 +104,8 @@ https://github.com/topics/beamforming
 
 #### Flow
 * 2021, A Flow-based Neural Network for Time Domain Speech Enhanceent, Strauss & [Edler](https://www.audiolabs-erlangen.de/fau/professor/edler). [[Paper]](https://arxiv.org/abs/2106.09008)
+* 2025, FlowSE: Efficient and High-Quality Speech Enhancement via Flow Matching, Wang et al. [Paper](https://arxiv.org/abs/2505.19476) [Code](https://github.com/Honee-W/FlowSE)
+
 
 #### VAE
 * 2018, A variance modeling framework based on variational autoencoders for speech enhancement, [[Leglaive]](https://gitlab.inria.fr/sileglai). [[Paper]](https://hal.inria.fr/hal-01832826v1/document) [[mlsp]](https://gitlab.inria.fr/sileglai/mlsp-2018)
@@ -207,7 +209,15 @@ https://github.com/topics/beamforming
 * FastICA[[Code]](https://github.com/ShubhamAgarwal1616/FastICA)
 * A localisation- and precedence-based binaural separation algorithm[[Download]](http://iosr.uk/software/downloads/PrecSep_toolbox.zip)
 * Convolutive Transfer Function Invariant SDR [[Code]](https://github.com/fgnt/ci_sdr)
-* 
+
+<!-- ## Target Speaker Extraction (TSE)
+### Discriminative Model
+### Generative Model
+#### Diffusion
+#### Flow
+#### Autoregressive -->
+
+
 ## Array Signal Processing
 * MASP:Microphone Array Speech Processing [[Code]](https://github.com/ZitengWang/MASP)
 * BeamformingSpeechEnhancer 
@@ -224,6 +234,13 @@ https://github.com/topics/beamforming
 * deepBeam [[Code]](https://github.com/auspicious3000/deepbeam)
 * NN_MASK [[Code]](https://github.com/ZitengWang/nn_mask)
 * Cone-of-Silence [[Code]](https://github.com/vivjay30/Cone-of-Silence)
+
+## Universal SE
+* 2023, Toward Universal Speech Enhancement for Diverse Input Conditions, Zhang et al. [Paper](https://arxiv.org/abs/2309.17384) [Code](https://github.com/espnet/espnet)
+
+## Scaling in SE
+* 2025, Less is More: Data Curation Matters in Scaling Speech Enhancement, Li et al. [Paper](https://arxiv.org/abs/2506.23859) [Code](https://github.com/urgent-challenge/urgent2026_challenge_track1)
+
 
 ## Tools
 * APS:A workspace for single/multi-channel speech recognition & enhancement & separation.  [[Code]](https://github.com/funcwj/aps)
